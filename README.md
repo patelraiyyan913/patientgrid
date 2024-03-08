@@ -1,2 +1,2 @@
 # patientgrid
-THis is a medical website
+This is a medical website
